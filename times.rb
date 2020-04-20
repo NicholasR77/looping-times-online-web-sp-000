@@ -1,6 +1,6 @@
-def using_times(amount)
+def using_times
 	#your code here
-  amount.times do
+  7.times do
     puts "Wingardium Leviosa"
   end
 end
