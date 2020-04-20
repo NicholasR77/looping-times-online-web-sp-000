@@ -5,7 +5,3 @@ def using_times(amount)
   end
   end
 end
-
-
-
-
