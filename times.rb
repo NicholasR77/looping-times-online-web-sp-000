@@ -3,5 +3,4 @@ def using_times(amount)
   amount.times do
     puts "Wingardium Leviosa"
   end
-  end
 end
